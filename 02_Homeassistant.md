@@ -3,11 +3,12 @@
 ![image](/images/ha.png)
 
 ## Warum HA?
-* irgendwann (2015) festgestellt, dass das Home nie wirklich smart sein wird, solange jeder Hersteller seine eigene APP baut
-* außerdem war früh der Bedarf nach Custom-lösungen da: 
-  * billige 433MHz Schaltsteckdosen, statt teuer WLAN-Steckdosen mit China-FW wollte ich nicht --> 433MHz Sender selbst bauen
-  * IR-LEDStrips statt Philips HUE --> IR Sender selbst bauen
-  * hab mich geweigert, auf einen Hersteller festzulegen --> viel zu starke Einschränkung
+* Smart Home wird nie smart sein, solange jeder Hersteller sein eigenes System baut
+* privacy
+* früher Bedarf nach Custom-lösungen: 
+  * billige 433MHz Schaltsteckdosen, statt teuer WLAN-Steckdosen mit China-FW --> DIY 433MHz Sender
+  * IR-LEDStrips statt Philips HUE --> DIY IR Sender 
+  * Einschränkung der Hersteller-Apps
 * nach kurzem Versuch von openHAB sehr schnell bei Homeassistant gelandet & geblieben: schön, durchdacht, gutes Konzept, sehr aktive community - und: es funktioniert einfach ¯\\_(ツ)_/¯
 
 ## Was ist Homeassistant?
