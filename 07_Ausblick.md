@@ -41,3 +41,6 @@
 * [Shelly UNI](https://www.amazon.de/dp/B08QY35KNR)
 * [ESP32 Cam](https://www.amazon.de/dp/B08P1NMPLL)
 * Gosund SP1 WLAN Steckdose --> Tasmota flashen!
+
+
+[next --> ](/08_Bewaesserung.md)

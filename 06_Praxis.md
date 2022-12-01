@@ -1,6 +1,9 @@
 
 
 
+# Install CP210x Drivers
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
+
 # ESPHome: Initial Setup
 ` esphome wizard dos.yaml `
 * name: dos
