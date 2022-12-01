@@ -1,5 +1,7 @@
 # Homeassistant
 
+![image](/images/ha.png)
+
 ## Warum HA?
 * irgendwann (2015) festgestellt, dass das Home nie wirklich smart sein wird, solange jeder Hersteller seine eigene APP baut
 * außerdem war früh der Bedarf nach Custom-lösungen da: 
@@ -18,7 +20,9 @@
 * lebt (idealerweise) "neben" proprietären Systemen (Bsp. Hue)
 
 ## Funktionsweise
-![image](/images/overview.png)
+
+[Homeassistant.local](http://homeassistant.local:8123/config/dashboard)
+
 * Integrationen --> Geräte --> Entitäten --> Helfer
 * Automatisierungen
     * Auslöser
