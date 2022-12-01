@@ -3,12 +3,15 @@
 ## Links
 * https://www.home-assistant.io/
 * https://esphome.io/
+* https://www.esphome-devices.com/
+* https://tasmota.github.io/docs/
 * https://www.az-delivery.de/
 
 ## Zigbee
 
 ### Gateway
 * Phoscon Conbee II [USB](https://phoscon.de/de/conbee2) / [RasPi](https://phoscon.de/de/raspbee2)
+  * [supported devices](https://www.phoscon.de/en/conbee2/compatible)
 
 ### Sensoren
 * "eigentlich" "alles" von Aqara
