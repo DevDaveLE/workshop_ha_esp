@@ -5,6 +5,7 @@
 * https://esphome.io/
 * https://www.esphome-devices.com/
 * https://tasmota.github.io/docs/
+* https://www.shelly.cloud/
 * https://www.az-delivery.de/
 
 ## Zigbee
